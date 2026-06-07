@@ -87,3 +87,27 @@ footer {
   padding: 20px;
   color: #64748b;
 }
+.contact-container {
+    display:flex;
+    flex-direction:column;
+    justify-content:space-evenly;
+}
+
+.project-1{
+    border-width:2px;
+    border-style:solid;
+    border-color:lightgrey;
+    border-radius:10px;
+    padding:20px;
+    margin-bottom:6px;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  transition: 0.3s;
+}
+
+.project-1:hover {
+  transform: scale(1.02);
+  transition: 0.3s;
+}
