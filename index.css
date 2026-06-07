@@ -5,6 +5,14 @@
   color: #1e293b;
   margin-bottom: 20px;
 }
+
+.tagline {
+  text-align: center;
+  color: #64748b;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -112,18 +120,18 @@ button:hover {
   transition: 0.3s;
 }
 
-.profile-pic{
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-bottom: 20px;
+.profile-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
 }
-.header-container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 25px;
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 25px;
 }
 
 /* Tablets */
@@ -143,6 +151,9 @@ button:hover {
 
   .project-1 {
     padding: 15px;
+  }
+  .tagline {
+    font-size: 14px;
   }
 }
 
@@ -185,6 +196,9 @@ button:hover {
   }
 
   footer {
+    font-size: 14px;
+  }
+  .tagline {
     font-size: 14px;
   }
 }
