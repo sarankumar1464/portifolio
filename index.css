@@ -4,6 +4,7 @@
   text-align: center;
   color: #1e293b;
   margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
 }
 
 .tagline {
@@ -11,6 +12,7 @@
   color: #64748b;
   font-size: 18px;
   margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
 }
 
 * {
@@ -32,6 +34,7 @@ h2 {
   margin-bottom: 15px;
   border-left: 5px solid #2563eb;
   padding-left: 10px;
+  font-family: "Poppins", sans-serif;
 }
 
 ul {
@@ -41,6 +44,7 @@ ul {
   gap: 15px;
   list-style: none;
   padding-left: 0;
+  font-family: "Poppins", sans-serif;
 }
 
 li {
@@ -50,6 +54,7 @@ li {
   padding: 8px 16px;
   min-width: 100px;
   text-align: center;
+  font-family: "Poppins", sans-serif;
 }
 
 .project {
@@ -66,6 +71,7 @@ a {
   text-decoration: none;
   color: #2563eb;
   font-weight: bold;
+  font-family: "Poppins", sans-serif;
 }
 
 .project-card a {
@@ -94,6 +100,7 @@ footer {
   text-align: center;
   padding: 20px;
   color: #64748b;
+  font-family: "Poppins", sans-serif;
 }
 .contact-container {
   display: flex;
@@ -108,6 +115,7 @@ footer {
   border-radius: 10px;
   padding: 20px;
   margin-bottom: 6px;
+  font-family: "Poppins", sans-serif;
 }
 
 button:hover {
@@ -142,18 +150,22 @@ button:hover {
 
   .title {
     font-size: 32px;
+    font-family: "Poppins", sans-serif;
   }
 
   p {
     font-size: 16px;
     line-height: 1.6;
+    font-family: "Poppins", sans-serif;
   }
 
   .project-1 {
     padding: 15px;
+    font-family: "Poppins", sans-serif;
   }
   .tagline {
     font-size: 14px;
+    font-family: "Poppins", sans-serif;
   }
 }
 
@@ -166,40 +178,50 @@ button:hover {
   .title {
     font-size: 24px;
     line-height: 1.3;
+    font-family: "Poppins", sans-serif;
   }
 
   h2 {
     font-size: 24px;
+    font-family: "Poppins", sans-serif;
   }
 
   p {
     font-size: 14px;
+    font-family: "Poppins", sans-serif;
   }
 
   ul {
     gap: 10px;
+    font-family: "Poppins", sans-serif;
   }
 
   li {
     min-width: 80px;
     font-size: 14px;
     padding: 6px 12px;
+    font-family: "Poppins", sans-serif;
   }
 
   .project-card a {
     width: 100%;
     justify-content: center;
+    font-family: "Poppins", sans-serif;
+  }
   }
 
   .project-1 {
     padding: 12px;
+    font-family: "Poppins", sans-serif;
   }
 
   footer {
     font-size: 14px;
+    font-family: "Poppins", sans-serif;
   }
   .tagline {
     font-size: 14px;
+    font-family: "Poppins", sans-serif;
   }
 }
 
